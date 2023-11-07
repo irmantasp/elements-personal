@@ -5,7 +5,7 @@
 		<description>All personal indexes for homebrew items in campaigns or settings</description>
 		<author url="https://github.com/irmantasp/elements-personal">Irmantas P.</author>
 		<update version="0.0.1">
-			<file name="all.xml" url="https://raw.githubusercontent.com/irmantasp/elements-personal/master/all.index" />
+			<file name="personal.index" url="https://raw.githubusercontent.com/irmantasp/elements-personal/master/personal.index" />
 		</update>
 	</info>
 	<files>
