@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Couldron of City occupants</name>
+		<description>Couldron of City occupants campain setting.</description>
+		<author url="https://github.com/irmantasp/elements-personal/couldron-of-city-occupants">Irmantas P.</author>
+		<update version="0.0.1">
+			<file name="couldron-of-city-occupants.xml" url="https://raw.githubusercontent.com/irmantasp/elements-personal/master/couldron-of-city-occupants.xml" />
+		</update>
+	</info>
+	<files>
+		<file name="source.xml" url="https://raw.githubusercontent.com/irmantasp/elements-personal/master/couldron-of-city-occupants/source.xml" />
+    <file name="items.xml" url="https://raw.githubusercontent.com/irmantasp/elements-personal/master/couldron-of-city-occupants/items.xml" />
+	</files>
+</index>

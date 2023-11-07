@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<update version="0.0.3">
+			<file name="source.xml" url="https://raw.githubusercontent.com/irmantasp/elements-personal/master/couldron-of-city-occupants/source.xml" />
+		</update>
+	</info>
+	<element name="Couldron of City occupants" type="Source" source="Personal" id="ID_PERSONAL_COCO">
+		<description>
+      <p>Personal campaign setting of "Couldron of City occupants</p>
+    </description>
+		<setters>
+			<set name="abbreviation">COCO</set>
+			<set name="author" abbreviation="IRMPDZ" url="https://github.com/irmantasp/elements-personal">Irmantas P.</set>
+			<set name="homebrew">true</set>
+		</setters>
+	</element>
+</elements>

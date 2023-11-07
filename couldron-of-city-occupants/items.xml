@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+	   <name>Items</name>
+		<description>Various items from Couldron of City occupants setting.</description>
+		<author url="https://github.com/irmantasp/elements-personal/couldron-of-city-occupants">Irmantas P.</author>
+	   <update version="0.0.1">
+		   <file name="items.xml" url="https://raw.githubusercontent.com/irmantasp/elements-personal/master/couldron-of-city-occupants/items.xml" />
+	   </update>
+	</info>
+
+	<element name="Example Kit" type="Item" source="Couldron of City occupants" id="ID_PERSONAL_COCO_ITEM_EXAMPLE_KIT">
+		<description>
+			<p>An Example's kit contains:</p>
+			<ul>
+				<li>Example</li>
+			</ul>
+			<p>Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to make or analyse geological examples such as explaining simple things to various creatures.</p>
+		</description>
+		<setters>
+			<set name="category">Tools</set>
+			<set name="cost" currency="gp">10</set>
+			<set name="weight" lb="10">10 lbs.</set>
+			<set name="type">Tool</set>
+		</setters>
+	</element>
+</elements>
