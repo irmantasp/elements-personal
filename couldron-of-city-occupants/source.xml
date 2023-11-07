@@ -5,13 +5,14 @@
 			<file name="source.xml" url="https://raw.githubusercontent.com/irmantasp/elements-personal/master/couldron-of-city-occupants/source.xml" />
 		</update>
 	</info>
-	<element name="Couldron of City occupants" type="Source" source="Core" id="ID_PERSONAL_COCO">
+	<element name="Couldron of City occupants" type="Source" source="Couldron of City occupants" id="ID_PERSONAL_COCO">
 		<description>
       <p>Personal campaign setting of "Couldron of City occupants</p>
     </description>
 		<setters>
 			<set name="abbreviation">COCO</set>
 			<set name="author" abbreviation="IRMPDZ" url="https://github.com/irmantasp/elements-personal">Irmantas P.</set>
+			<set name="url">https://github.com/irmantasp/elements-personal/tree/master/couldron-of-city-occupants</set>
 			<set name="homebrew">true</set>
 		</setters>
 	</element>
